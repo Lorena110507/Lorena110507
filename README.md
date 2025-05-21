@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=FFB6C1&text=Lorena%20Gabarão&textBg=false&fontAlign=57&fontColor=FFFFFF&animation=blink&fontAlignY=54">
+</h1>
 
-<!--
-**Lorena110507/Lorena110507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Play&pause=1000&color=F7AAD9&width=435&lines=SYSADMIN">
+</p>
 
-Here are some ideas to get you started:
+## SOBRE MIM 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" height="190" src="https://i.pinimg.com/originals/6d/c0/2d/6dc02de40ed24e0571ca746409928f0f.gif">
+
+Cursando o terceiro semestre de Redes de computadores e primeiro semestre de Ciencia de dados
+
+Conecte-se comigo!
+
+<br><br>
+
+## TECH STACK
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,azure,github,gmail,html,instagram,linkedin,linux,nginx,notion,py,twitter,vscode,windows,debian,aws,apple"
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white">
+   <img src="https://img.shields.io/badge/iCloud-3693F3?logo=icloud&logoColor=fff">
+   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff">
+   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff">
+   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff">
+   <img src="(https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff">
+   <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff">
+   <img src="https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff">
+
+
+
+
+
+
+</p>
+
+
