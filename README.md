@@ -16,6 +16,13 @@ Conecte-se comigo!
 
 <br><br>
 
+## Linkedin
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lorenagabarao/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></p><a>
+  </p>
+  
+
 ## TECH STACK
 
 <p align="center">
@@ -40,4 +47,27 @@ Conecte-se comigo!
 | --- | --- |
 | ![CCNA ITN](https://img.shields.io/badge/CISCO_Introduction_To_Networks-t?style=plastic&logo=cisco&color=black) | Cisco NetAcademy Introduction to Networks |
 | ![AWS CF](https://img.shields.io/badge/_-AWS_Academy_Cloud_Foundantions-t?style=plastic&logo=amazonwebservices&logoColor=yellow&labelColor=black&color=black&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2F899dcac5-3ce4-4098-a9ef-2f232c1f7530%2Flinked_in%3Ft%3Dstccpp) | AWS Academy Cloud Foundantions |
+
+
+---
+
+## Conquistas 🏆
+
+- Projeto Zabbiz(zabwatch)
+- Projeto na Azure (techwave)
+- Curso Tecnico em redes
+- Faculdade de Ciencias de Dados
+
+## Projetos
+
+- Casa inteligente voltada aos PCDs
+- Monitoramento On-Premises com o uso de Zabbix & Grafana (zabiwatch)
+- Infraestrutura em nuvem utilizando AWS e Azure (Aether Cloud)
+
+<p align ="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Lorena110507&theme=rose&hide_border=true&short_numbers=true">
+</p>
+
+
+
 
