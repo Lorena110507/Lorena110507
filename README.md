@@ -32,12 +32,12 @@ Conecte-se comigo!
    <img src="(https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff">
    <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff">
    <img src="https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff">
-
-
-
-
-
-
 </p>
 
+## Certificações
+
+| Certificação | Nome |
+| --- | --- |
+| ![CCNA ITN](https://img.shields.io/badge/CISCO_Introduction_To_Networks-t?style=plastic&logo=cisco&color=black) | Cisco NetAcademy Introduction to Networks |
+| ![AWS CF](https://img.shields.io/badge/_-AWS_Academy_Cloud_Foundantions-t?style=plastic&logo=amazonwebservices&logoColor=yellow&labelColor=black&color=black&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2F899dcac5-3ce4-4098-a9ef-2f232c1f7530%2Flinked_in%3Ft%3Dstccpp) | AWS Academy Cloud Foundantions |
 
