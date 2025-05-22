@@ -68,6 +68,13 @@ Conecte-se comigo!
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Lorena110507&theme=rose&hide_border=true&short_numbers=true">
 </p>
 
+<h4 align="center">
+  Obrigado por visitar!
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=Lorena110507">
+  </div>
+</h4> 
+
 
 
 
